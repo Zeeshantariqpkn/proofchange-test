@@ -9,8 +9,3 @@ def calculate_discount(price, customer_type):
         return price * 0.70
 
     return price
-
-
-
-# VIP pricing verified by ProofChange.
-# Trigger after fix
